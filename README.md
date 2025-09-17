@@ -13,13 +13,30 @@
 
 ----------
 
-![پیش‌نمایش برنامه](images/image-1.png)
-
-----------
 کتابخانه های مورد نیاز:
     
     beautifulsoup4
     requests
     tkinter
     random
+----------
+
+نحوه اجرای برنامه:
+
+ 1-این ریپازیتوری را دانلود یا کلون کنید:
+
+    git clone https://github.com/MP-Razgardani/Khayyam-Robaee.git
+
+2-وارد پوشه پروژه شوید:
+
+    cd Khayyam-Robaee
+
+3-برنامه را اجرا کنید:
+
+    python main.py
+----------
+
+نویسنده:
+
+    MP_Razgardani
 
